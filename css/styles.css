@@ -1,8 +1,12 @@
 .sidebar {
   float: left;
   background-color: lightgrey;
+  border: 2px solid black;
+  padding: 4px;
+  margin: 10px;
 }
 
 img {
   float: right;
+  margin: 10px;
 }
